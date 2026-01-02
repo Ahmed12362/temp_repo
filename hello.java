@@ -1,6 +1,6 @@
 public class hello {
     public static void main(String[] args) {
-        int x = 10;
-	System.out.println("Hello from Ahmed Ramadan " + x);
+        int x = 2026;
+        System.out.println("Year: " + x);
     }
 }
