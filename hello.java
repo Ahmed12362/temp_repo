@@ -1,7 +1,7 @@
 public class hello {
     public static void main(String[] args) {
         int x = 2026;
-        System.out.println("Happy New Year: " + x + " from momen's Branch");
-        
+        int y = 2024;
+        System.out.println("The maximum is: " + x + " " + y);        
     }
 }
