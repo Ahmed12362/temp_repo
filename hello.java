@@ -4,4 +4,16 @@ public class hello {
         System.out.println("Happy New Year: " + x + " from momen's Branch");
         
     }
+    int max(int x, int y){
+        if (x > y)
+            return x;
+        else
+            return y;
+    }
+    int min(int x, int y){
+        if (x < y)
+            return x;
+        else
+            return y;
+    }
 }
